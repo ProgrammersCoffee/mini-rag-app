@@ -1,0 +1,6 @@
+.env
+.env.*
+!.env.example
+
+Chatbot/env.py
+Laravel_Dashboard_Project/laravel-dashboard/env
